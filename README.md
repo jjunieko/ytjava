@@ -6,6 +6,6 @@ Na página recriei funções parecidas com a do youtube com interfaces direciona
 
 ### Aulas
 
-Esse estudo foi desenvolvido pelo curso em video aonde o professor Guanabara explica funções em POO metodos como Crud e inteface.
+Esse estudo foi desenvolvido pelo curso em video aonde o professor Guanabara explica funções em POO metodos como Crud e interface.
 
 
